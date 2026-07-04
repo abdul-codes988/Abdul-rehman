@@ -1,0 +1,6 @@
+{
+  "name": "Aura AI Scheduler",
+  "description": "An AI-powered smart scheduling and automated task management assistant with Siri-like voice controls, calendar integrations, and secure offline-first collaboration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
